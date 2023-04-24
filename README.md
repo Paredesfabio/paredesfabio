@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an experienced software developer with a proven track record of implementing and maintaining web applications. With over 5 years of industry experience, I have worked with a variety of technologies including PHP, Laravel, Javascript, NodeJs, and Angular. My previous work experiences have been in different industries such as Retail, Tourism, Public Institutions in Ecuador, and Health in Chile. I am highly committed to meeting targets and delivering high-quality results.
+
+- 🔭 I’m currently working on Careyou (Chile) such a Frontend developer
+
 <!--
 **Paredesfabio/paredesfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
