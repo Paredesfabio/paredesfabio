@@ -1,5 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Eliecer%20Rangel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-paredes/)](https://www.linkedin.com/in/fabio-paredes/)
-[![Gmail Badge](https://img.shields.io/badge/-Eliecer%20Rangel-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.paredes@gmail.com)](mailto:fabio.paredes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Fabio-Paredes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-paredes/)](https://www.linkedin.com/in/fabio-paredes/)
+[![Gmail Badge](https://img.shields.io/badge/-Fabio-Paredes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.paredes@gmail.com)](mailto:fabio.paredes@gmail.com)
 
 I am an experienced software developer with a proven track record of implementing and maintaining web applications. With over 5 years of industry experience, I have worked with a variety of technologies including PHP, Laravel, Javascript, NodeJs, and Angular. My previous work experiences have been in different industries such as Retail, Tourism, Public Institutions in Ecuador, and Health in Chile. I am highly committed to meeting targets and delivering high-quality results.
 
